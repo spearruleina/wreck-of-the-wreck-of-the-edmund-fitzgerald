@@ -44,7 +44,7 @@
 			<img src="/edmond-fitzgerald.jpg" style="width:200px; margin-right:30px;" alt="Edmund Fitz" />
 		</td>
 		<td>
-			<h1>The Wreck of the Edmund Fitzgerald</h1>
+			<h1>The Wreck of The Wreck of the Edmund Fitzgerald</h1>
 
 			<p>
 				Exceptional storytelling of that fateful night when the boat broke in half and sunk. The
