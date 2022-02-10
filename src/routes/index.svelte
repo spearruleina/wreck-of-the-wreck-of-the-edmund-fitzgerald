@@ -47,7 +47,7 @@
 			<h1>The Wreck of The Wreck of the Edmund Fitzgerald</h1>
 
 			<p>
-				Exceptional storytelling of that fateful night when the boat broke in half and sunk. The
+				Exceptional storytelling! That fateful night when the boat broke in half and sunk. The
 				larger boats on the U.P. waters could more easily fall victim to the broken wave patterns
 				that often accompanied storms on Superior. They call it the bath tub effect, where the waves
 				have no clear pattern. Smaller boats just get tossed, but the larger boats get high
