@@ -184,7 +184,7 @@
 		howler.play(shipwreck[iwreck].idx); 
 	}
 	onMount(() => {
-		howler = new Howl({ src: [ 'static/wreck.ogg' ] });
+		howler = new Howl({ src: [ 'wreck.ogg' ] });
 		writeLyrics(snippets);
 		/*
 		player.addEventListener('play', () => {
